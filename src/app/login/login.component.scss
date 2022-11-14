@@ -1,0 +1,23 @@
+#login-container {
+  min-height: 100vh;
+  min-width: 100vw;
+  background-image: url('../../assets/loginbg.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  position: relative;
+  opacity: 80%;
+  .logo {
+    max-height: 150px;
+    margin: auto;
+    margin-bottom: 5px;
+  }
+  .notification {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+}
