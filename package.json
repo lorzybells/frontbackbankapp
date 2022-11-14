@@ -1,5 +1,8 @@
 {
   "name": "banking-app-frontend",
+  "engines": {
+    "node": "14.21.1"
+  },
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
